@@ -40,3 +40,6 @@ class Solution(object):
             index += 1
             letters_list = []
         return result_str
+ 
+ 
+ 
